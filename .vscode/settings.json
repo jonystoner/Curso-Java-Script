@@ -1,0 +1,36 @@
+{
+    "terminal.explorerKind": "external"
+}
+
+
+
+}
+[
+ {
+   "Nome": "Elias"
+   "Data Nascimento": "23/11/87",
+   "Idade": 32,
+   "Telefones": ["1111-1111"],
+   "Peso": 87.9,
+   "Altura": 1.98,
+   "Mora em Casa?": "Sim"
+ },
+ {
+   "Nome": "Ana",
+   "Data Nascimento": "01/07/04",
+   "Idade": 15,
+   "Telefones": ["2222-2222" / "3333-3333" / "4444-4444"],
+   "Peso": 42.5,
+   "Altura": 1.43,
+   "Mora em Casa?": "v"
+ },
+ {
+   "Nome": "Maycon",
+   "Data Nascimento": "17/03/10",
+   "Idade": 9,
+   "Telefones": [""],
+   "Peso": 60.7,
+   "Altura": 1.74,
+   "Mora em Casa?": "Não sabe"
+
+ }
