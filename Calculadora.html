@@ -17,14 +17,38 @@
    </header>
       
    <section>
-      <form class="calculator" name="calculator" id="botao">
-            <input type="text" name="visor"> <br/>
-            <input type="button" value="7" onclick="botao (value);">
-            <input type="button" value="8" onclick="botao (value);">
-            <input type="button" value="9" onclick="botao (value);"><br/>
-
-
+      <form name="calc">
+            <input type="text" name="visor">
+            <input type="button" value="/" onclick="botao(value);"/>
+            <input type="button" value="CE" onclick="zero();" >
+            <input type="button" value="C" onclick="reset(); ">
+            <br/>
+            <input type="button" value="7" onclick="botao(value);"/>
+            <input type="button" value="8" onclick="botao(value); " >
+            <input type="button" value="9" onclick="botao(value); ">
+            <input type="button" value="*" onclick="botao(value); ">
+            <br/>
+            <input type="button" value="4" onclick="botao(value);"/>
+            <input type="button" value="5" onclick="botao(value); " >
+            <input type="button" value="6" onclick="botao(value); ">
+            <input type="button" value="-" onclick="botao(value); ">
+            <br/>
+            <input type="button" value="1" onclick="botao(value);"/>
+            <input type="button" value="2" onclick="botao(value); " >
+            <input type="button" value="3" onclick="botao(value); ">
+            <input type="button" value="+" onclick="botao(value);">
+            <br/>   
+            <input type="button" value="+/-" onclick="botao(value);"/>
+            <input type="button" value="0" onclick="botao(value); " >
+            <input type="button" value="." onclick="botao(value); ">
+            <input type="button" value="=" onclick="calcule()">
       </form>
+
+  
+
+
+            
+            <script type="text/javascript" src="Calculadora.js"></script>
        
         </section>
       
