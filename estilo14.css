@@ -1,11 +1,11 @@
 body {
-    background-color: rgba(0, 217, 255, 0.267);
-    font: 16pt arial ;
+    background-color: rgba(0, 255, 55, 0.856);
+    font: 16pt arial-black ;
 }
 
 section {
 
-    background: rgb(243, 180, 135);
+    background: rgb(135, 236, 243);
     border-radius: 20px;
     padding: 15px;
     width: 500px;
