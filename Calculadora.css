@@ -1,16 +1,16 @@
 body {
-    background-color: rgba(0, 255, 55, 0.856);
+    background-color: rgba(0, 0, 0, 0.856);
     font: 16pt arial-black ;
 }
 
 section {
 
-    background: rgb(135, 236, 243);
+    background: rgb(158, 166, 167);
     border-radius: 20px;
-    padding: 15px;
-    width: 500px;
+    padding: 25px;
+    width: 600px;
     margin: auto;
-    box-shadow: 5px 5px 12px rgba(255, 166, 0, 0.534);
+    box-shadow: 5px 5px 12px rgba(136, 133, 128, 0.534);
 }
 
 header {
